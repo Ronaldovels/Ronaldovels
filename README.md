@@ -21,4 +21,4 @@ ________________________________________________________________________________
 </div>
 
 [![ronaldovels GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldovels)](https://github.com/ronaldovels/github-readme-stats)
-![Ronaldovels GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldovels&show_icons=true&theme=merko)
+![Ronaldovels GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldovels&show_icons=true&theme=midnight-purple)
