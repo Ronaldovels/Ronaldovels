@@ -1,9 +1,12 @@
 <h1 align="center">Olá, sou o Ronaldo!</h1>
-<h3 align="center">Entusiasta de tecnologia</h3>
+<h3 align="center">💻 Estudante de Engenharia da Computação <a href="https://www.fiap.com.br">(FIAP)</a></h3>
 
 __________________________________________________________________________________________________________________________________________
 
-- ⌛ Estudante de Engenharia da Computação <a href="https://www.fiap.com.br">(FIAP)</a>
+-  
+-  
+-
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,4 +28,8 @@ ________________________________________________________________________________
   
 </div>
 
-
+<div>
+  <a href="https://www.instagram.com/rndvlss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ronaldovf24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ronaldovels/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
