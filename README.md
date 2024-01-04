@@ -2,7 +2,7 @@
 __________________________________________________________________________________________________________________________________________
 
 - 🎯 Foco em melhorar!
-- ⌛⌛ Estudando de Engenharia da Computação <img src="https://www.fiap.com.br/wp-content/themes/fiap2016/images/sharing/fiap.png"/>
+- ⌛⌛ Estudando de Engenharia da Computação <a href="https://www.fiap.com.br" target="_blank"><img align="center" height="30" width="40" src="https://www.fiap.com.br/wp-content/themes/fiap2016/images/sharing/fiap.png" target="_blank"></a>
 - 😄 
 ___________________________________________________________________________________________________________________________________________
 <div>
