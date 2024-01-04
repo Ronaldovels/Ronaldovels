@@ -10,9 +10,9 @@ ________________________________________________________________________________
 
 <div>
   <a href="https://github.com/ronaldovels">
-  
+  ![Ronaldovels GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldovels&show_icons=true&theme=midnight-purple)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldovels&layout=compact&langs_count=7&theme=midnight-purple"/>
   
 </div>
 
-![Ronaldovels GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldovels&show_icons=true&theme=midnight-purple)
+
