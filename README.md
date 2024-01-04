@@ -1,5 +1,8 @@
-<h1 align="center">Olá, sou o ! Ronaldo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Olá, sou o Ronaldo!
+__________________________________________________________________________________________________________________________________________
+
+- ⌛ Estudante de Engenharia da Computação <a href="https://www.fiap.com.br">(FIAP)</a>
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
