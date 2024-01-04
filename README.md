@@ -14,4 +14,10 @@ ________________________________________________________________________________
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronaldovels&show_icons=true&locale=en" alt="ronaldovels" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldovels&" alt="ronaldovels" /></p>
+<div>
+  <a href="https://github.com/ronaldovels">
+    
+  ![guicarm GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldovels&show_icons=true&theme=highcontrast)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldovels&layout=compact&langs_count=7&theme=merko"/>
+  
+</div>
