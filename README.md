@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou o Ronaldo!</h1>
-<h3 align="center">💻 Estudante de Engenharia da Computação <a href="https://www.fiap.com.br">(FIAP)</a></h3>
+<h3 align="center">💻 Estudante de Engenharia de Computação <a href="https://www.fiap.com.br">(FIAP)</a></h3>
 
 __________________________________________________________________________________________________________________________________________
 
